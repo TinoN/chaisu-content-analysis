@@ -1,0 +1,2 @@
+Active theme: Astra
+All plugins: astra-sites, sureforms, checkout-plugins-stripe-woo, theme-editor, copy-delete-posts, ultimate-addons-for-gutenberg, google-listings-and-ads, variation-swatches-woo, woocommerce, sg-cachepress, woocommerce-payments, sg-security, woocommerce-services
